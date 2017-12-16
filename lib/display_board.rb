@@ -3,6 +3,7 @@
  def display_board 
    
    row = "   "+"|"+"   "+"|"+"   "
+   line = "-----------"
    
  end
   
