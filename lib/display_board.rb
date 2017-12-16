@@ -4,8 +4,11 @@
    
    puts "   "+"|"+"   "+"|"+"   "
    puts "-----------"
+   puts "   "+"|"+"   "+"|"+"   "
+   puts "-----------"
+   puts "   "+"|"+"   "+"|"+"   "
    
  end
   
- 3.times {puts display_board}
-  
+
+  puts 
