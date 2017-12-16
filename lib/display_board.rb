@@ -11,4 +11,6 @@
  end
   
 
-  puts 
+  puts display_board
+  
+  
