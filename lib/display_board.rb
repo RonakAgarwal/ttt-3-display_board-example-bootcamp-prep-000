@@ -7,5 +7,5 @@
    
  end
   
-  puts display_board
+ 3.times puts display_board
   
