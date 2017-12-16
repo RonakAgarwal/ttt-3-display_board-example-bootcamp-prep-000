@@ -2,7 +2,7 @@
 
  def display_board 
    
-   1+1
+   
    
  end
   
